@@ -55,6 +55,7 @@
     "sass-loader": "7.1.0",
     "semver": "6.0.0",
     "style-loader": "0.23.1",
+    "styled-components": "^1.4.5",
     "terser-webpack-plugin": "1.2.3",
     "url-loader": "1.1.2",
     "webpack": "4.29.6",
@@ -135,5 +136,9 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "enzyme": "^2.8.2",
+    "react-addons-test-utils": "^15.5.1"
   }
 }
