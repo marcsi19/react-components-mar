@@ -54,7 +54,9 @@ class PasswordInput extends React.Component {
             onClick={this.toggleShowPassword}
             style={{ marginLeft: 5 }}
           >
+            {/* <button onClick={this.toggleShowPassword} style={{ marginLeft: 5 }}> */}
             <EyeIcon />
+            {/* </button> */}
           </a>
         )}
         {value.length > 0 && quality && (

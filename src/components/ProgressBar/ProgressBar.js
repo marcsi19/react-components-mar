@@ -2,6 +2,10 @@ import React from "react";
 import PropTypes from "prop-types";
 
 class ProgressBar extends React.Component {
+  // constructor(){
+  //   super()
+  //   this.getWidthAsPercentOfTotalWidth=this.getWidthAsPercentOfTotalWidth.bind(this)
+  // }
   // you can include the propTypes declaration this way:
   // static propTypes = {
   //   percent: PropTypes.number.isRequired,

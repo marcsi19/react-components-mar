@@ -50,7 +50,6 @@
     "react-dev-utils": "^9.0.0",
     "react-docgen": "^2.14.0",
     "react-dom": "^16.8.6",
-    "react-test-renderer": "^16.6.0",
     "resolve": "1.10.0",
     "sass-loader": "7.1.0",
     "semver": "6.0.0",
@@ -138,7 +137,9 @@
     ]
   },
   "devDependencies": {
-    "enzyme": "^2.8.2",
-    "react-addons-test-utils": "^15.5.1"
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.12.1",
+    "react-addons-test-utils": "^15.5.1",
+    "react-test-renderer": "^16.6.0"
   }
 }
