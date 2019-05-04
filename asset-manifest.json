@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea8938b9.chunk.css",
-    "main.js": "/static/js/main.a015c234.chunk.js",
-    "main.js.map": "/static/js/main.a015c234.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.52738377.chunk.css": "/static/css/2.52738377.chunk.css",
-    "static/js/2.c3cb80e6.chunk.js": "/static/js/2.c3cb80e6.chunk.js",
-    "static/js/2.c3cb80e6.chunk.js.map": "/static/js/2.c3cb80e6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b8fdcb44a065b843b72ae253b9c3f865.js": "/precache-manifest.b8fdcb44a065b843b72ae253b9c3f865.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.52738377.chunk.css.map": "/static/css/2.52738377.chunk.css.map",
-    "static/css/main.ea8938b9.chunk.css.map": "/static/css/main.ea8938b9.chunk.css.map"
+    "main.css": "/react-components-mar/static/css/main.ea8938b9.chunk.css",
+    "main.js": "/react-components-mar/static/js/main.115a2387.chunk.js",
+    "main.js.map": "/react-components-mar/static/js/main.115a2387.chunk.js.map",
+    "runtime~main.js": "/react-components-mar/static/js/runtime~main.329c10bb.js",
+    "runtime~main.js.map": "/react-components-mar/static/js/runtime~main.329c10bb.js.map",
+    "static/css/2.52738377.chunk.css": "/react-components-mar/static/css/2.52738377.chunk.css",
+    "static/js/2.c3cb80e6.chunk.js": "/react-components-mar/static/js/2.c3cb80e6.chunk.js",
+    "static/js/2.c3cb80e6.chunk.js.map": "/react-components-mar/static/js/2.c3cb80e6.chunk.js.map",
+    "index.html": "/react-components-mar/index.html",
+    "precache-manifest.e057a6358bca0b2907c208215abcd775.js": "/react-components-mar/precache-manifest.e057a6358bca0b2907c208215abcd775.js",
+    "service-worker.js": "/react-components-mar/service-worker.js",
+    "static/css/2.52738377.chunk.css.map": "/react-components-mar/static/css/2.52738377.chunk.css.map",
+    "static/css/main.ea8938b9.chunk.css.map": "/react-components-mar/static/css/main.ea8938b9.chunk.css.map"
   }
 }
